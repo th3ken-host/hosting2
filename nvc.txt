@@ -1,2 +1,2 @@
-_G.Key = "helloguysimnuke"
+_G.Key = "ThereIsABeeInMyRoomHelp"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
